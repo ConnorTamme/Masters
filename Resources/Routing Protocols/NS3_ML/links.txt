@@ -1,0 +1,9 @@
+https://datatracker.ietf.org/doc/html/rfc2080
+
+https://codereview.appspot.com/38960045
+
+https://github.com/DEFIANCE-project/ns3-DEFIANCE
+
+https://github.com/nsnam/ns-3-dev-git/blob/master/src/olsr/model/olsr-header.cc
+
+https://groups.google.com/g/ns-3-users/c/wXyF__ypyDE

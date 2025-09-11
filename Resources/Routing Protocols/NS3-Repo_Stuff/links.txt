@@ -1,0 +1,3 @@
+https://github.com/imec-idlab/eq2-routing-public
+https://github.com/qqins/GPSR
+https://github.com/dugdmitry/ns3_rlrp
