@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "289c58582eaa169e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0da77ad216f499de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4956d5cf2e575988",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e83d1fd8bd4c2a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "75915c31bfe296b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb958fc3db69d39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "352db11c2589e5c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f5eaf1ca46f9870",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a60b78b9069e68b",
+    "type": "split",
+    "children": [
+      {
+        "id": "60cc85a208bf066c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5c506ed870b4dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7a693462c99be7b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b322bee84633a435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "baea65ab69cd6b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "voice:Voice": false,
+      "audio-recorder:Start/stop recording": false,
+      "scribe:Scribe": false,
+      "vox:View VOX Status": false
+    }
+  },
+  "active": "4956d5cf2e575988",
+  "lastOpenFiles": [
+    "create a link.md",
+    "Welcome.md",
+    "865 - Multimedia Systems - Streaming and Distribution.md",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/QoE Assessment of Video Codecs for Video Streaming over 5G Networks.md",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251008000121.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251008000833.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251008001115.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251008001845.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251008002048.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/Recording 20251007235918.m4a",
+    "QoE Assessment of Video Codecs for Video Streaming over 5G Networks",
+    "Voice/unprocessed/Recording 20251007235048.m4a",
+    "Voice/unprocessed",
+    "Voice",
+    "scribe-2025-10-07-.md",
+    "scribe-2025-10-07-.289.md"
+  ]
+}
