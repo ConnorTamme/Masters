@@ -12,3 +12,6 @@ G. Minopoulos, K. E. Psannis, G. Kokkonis and Y. Ishibashi, [**"QoE Assessment 
 ![[Recording 20251008001845.m4a]]
 
 ![[Recording 20251008002048.m4a]]
+
+
+![[QoE_Assessment_of_Video_Codecs_for_Video_Streaming_over_5G_Networks.pdf]]
