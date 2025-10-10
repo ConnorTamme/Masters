@@ -5,3 +5,8 @@
 [[Quic Video Streaming]]
 
 [[Transcoding and Streaming-as-a-Service for improved Video Quality on the Web]]
+
+[[HotDASH Hotspot Aware Adaptive Video]]
+
+
+![[Recording 20251009195113.m4a]]

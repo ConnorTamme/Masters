@@ -11,13 +11,30 @@
             "id": "4956d5cf2e575988",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "HOTDASH hotspot aware adaptive video streaming using RL/HotDASH Hotspot Aware Adaptive Video.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "HotDASH Hotspot Aware Adaptive Video"
+            }
+          },
+          {
+            "id": "82e3acfaa32ad222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "865 - Multimedia Systems - Streaming and Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "865 - Multimedia Systems - Streaming and Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,22 +182,25 @@
       "voice:Voice": false
     }
   },
-  "active": "4956d5cf2e575988",
+  "active": "82e3acfaa32ad222",
   "lastOpenFiles": [
+    "Recording 20251009195113.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/HotDASH Hotspot Aware Adaptive Video.md",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009194712.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009194520.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009194056.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009193408.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009192425.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009192225.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009191524.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009184701.m4a",
+    "Recording 20251009184539.m4a",
+    "HOTDASH hotspot aware adaptive video streaming using RL/Recording 20251009184307.m4a",
+    "Towards Forward-looking Online Bitrate Adaptation for DASH/Towards Forward-looking Online Bitrate Adaptation for DASH.md",
     "865 - Multimedia Systems - Streaming and Distribution.md",
     "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Transcoding and Streaming-as-a-Service for improved Video Quality on the Web.md",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Recording 20251009174109.m4a",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Recording 20251009173901.m4a",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Recording 20251009173457.m4a",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Recording 20251009173054.m4a",
     "QoE Assessment of Video Codecs for Video Streaming over 5G Networks/QoE Assessment of Video Codecs for Video Streaming over 5G Networks.md",
     "Quic Video Streaming/Quic Video Streaming.md",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web/Transcoding and Streaming-as-a-Service.pdf",
-    "Transcoding and Streaming-as-a-Service for improved Video Quality on the Web",
-    "Quic Video Streaming/Recording 20251009164525.m4a",
-    "Quic Video Streaming/Recording 20251009164251.m4a",
-    "Quic Video Streaming/Recording 20251009163840.m4a",
-    "Quic Video Streaming/Recording 20251009163212.m4a",
     "MUSLIN MultiSource LiveStreaming/Muslin Multi Source Live Streaming.md",
     "create a link.md",
     "Welcome.md",
